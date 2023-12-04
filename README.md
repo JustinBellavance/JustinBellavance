@@ -1,4 +1,4 @@
-### I'm Justin :blush: here's what you can find here.
+### I'm Justin! :blush: Here's what you can find here.
 
 ## Projects
 I have a lot of repositories here related to bioinformatics, data science and software development.
