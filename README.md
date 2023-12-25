@@ -8,7 +8,7 @@ I have a lot of repositories here related to bioinformatics, data science and so
 
 ## Contact
 You can also find me:
-- My personal website (www.justinbellavance.com)
+- My personal website (justinbellavance.com)
 - UpWork (https://www.upwork.com/freelancers/~016bfcc0f96436f359)
 - Medium (https://medium.com/@justin.bellavance)
 - Shoot me an email: justin.bellavance@gmail.com
