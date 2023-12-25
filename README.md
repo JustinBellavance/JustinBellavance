@@ -11,4 +11,4 @@ You can also find me:
 - My personal website (https://justinbellavance.com)
 - UpWork (https://www.upwork.com/freelancers/~016bfcc0f96436f359)
 - Medium (https://medium.com/@justin.bellavance)
-- Shoot me an email: justin.bellavance@gmail.com
+- Inbox: justin.bellavance@gmail.com
