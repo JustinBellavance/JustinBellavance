@@ -4,11 +4,10 @@
 I have a lot of repositories here related to bioinformatics, data science and software development.
 - Repositories from personal projects
 - Repositories from internships
-- Repositories with personalized tips for future guides 
+- Repositories for guides and tutorials 
 
 ## Contact
 You can also find me:
-- My personal website (https://justinbellavance.com)
-- UpWork (https://www.upwork.com/freelancers/~016bfcc0f96436f359)
+- My personal website, with full resume (https://justinbellavance.com)
 - Medium (https://medium.com/@justin.bellavance)
 - Inbox: justin.bellavance@gmail.com
