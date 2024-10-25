@@ -2,8 +2,8 @@
 
 ## Projects
 I have a lot of repositories here related to bioinformatics, data science and software development.
-- Repositories from personal projects
-- Repositories from internships
+- Repositories from personal projects / hackathons
+- Repositories from internships / university research
 - Repositories for guides and tutorials 
 
 ## Contact
