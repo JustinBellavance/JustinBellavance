@@ -8,6 +8,4 @@ I have a lot of repositories here related to bioinformatics, data science and so
 
 ## Contact
 You can also find me:
-- My personal website, with full resume (https://justinbellavance.com)
-- Medium (https://medium.com/@justin.bellavance)
 - Inbox: justin.bellavance@gmail.com
