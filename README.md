@@ -7,5 +7,4 @@ I have a lot of repositories here related to bioinformatics, data science and so
 - Repositories for guides and tutorials 
 
 ## Contact
-You can also find me:
-- Inbox: justin.bellavance@gmail.com
+justin.bellavance@gmail.com
